@@ -1,2 +1,2 @@
 # InstaClone
-Instagram Clone in Django
+A Basic Instagram Clone in Django
